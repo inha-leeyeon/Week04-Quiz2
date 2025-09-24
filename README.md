@@ -66,7 +66,7 @@ The class representing the quadratic equation `ax^2 + bx + c = 0 (a!=0)` is defi
   e.g. `(1x^2+4x+5=0)+(2x^2+0x+3=0)=3x^2+4x+8=0`
 - Output `the difference between two quadratic equations in the form of a quadratic equation` on the 8th line.  
   e.g. `(1x^2+4x+5=0)-(2x^2+0x+3=0)=-1x^2+4x+2=0`
-- `No spaces are left between output contents.`
+- `No spaces are left between contents of quadratic equation.`
 
 <br/>
 
